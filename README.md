@@ -1,0 +1,2 @@
+# snoopy
+snoopy puppet module
